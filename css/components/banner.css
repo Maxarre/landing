@@ -1,0 +1,36 @@
+/* BANNER */
+.banner {
+  background-image: url(https://www.commercialfridgerepairs.com.au/wp-content/themes/commercial_fridge_repairs/images/hm-about-bg.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.banner h1 {
+  color: white;
+  text-shadow: -1px 0 #00f6ff, 0 1px #00f6ff, 1px 0 #00f6ff, 0 -1px #00f6ff;
+}
+
+.banner p {
+  color: white;
+  font-size: 20px;
+  text-shadow: -1px 0 #00f6ff, 0 1px #00f6ff, 1px 0 #00f6ff, 0 -1px #00f6ff;
+}
+
+.btn {
+  display: inline-block;
+  background-color: white;
+  border: 5px solid #00f6ff;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: black;
+  text-shadow: -1px 0 #00f6ff, 0 1px #00f6ff, 1px 0 #00f6ff, 0 -1px #00f6ff;
+  transition: 0.3s;
+}
+
+.btn:hover {
+  background-color: #00f6ff;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  color: white;
+  border: 5px solid white;
+}

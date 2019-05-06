@@ -1,0 +1,23 @@
+/* CARDS */
+.cards {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+
+.card img {
+  height: 100px;
+}
+
+.card a {
+  color: black;
+}
+
+.card {
+  width: 200px;
+  border-radius: 3px;
+  box-shadow: 0 0 10px #68a3a5;
+  text-align: center;
+  padding: 20px;
+  border: 1px solid #00f6ff;
+}
